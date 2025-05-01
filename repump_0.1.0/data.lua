@@ -22,4 +22,4 @@ local recipe = {
   results = {{type = "item", name = "electric-pump", amount = 1}}
 }
 
-data:extend{electricPump, recipe}
+data:extend{{electricPump, recipe}}
