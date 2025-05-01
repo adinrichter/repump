@@ -1,0 +1,9 @@
+{
+	"name": "repump",
+	"version": "0.1.0",
+	"title": "RePump",
+	"author": "AdinR",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0"],
+	"description": "Reworks pump mechanics to be more practical and engaging."
+}
